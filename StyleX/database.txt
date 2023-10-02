@@ -1,0 +1,6 @@
+Step 1-open xamp admin page 
+step2 - create a database name-Stylex
+create 2 tables login and  register
+login(sno,name,email,pass)
+register(sno,fname,lname,email,pass)
+step 3- and work done 
